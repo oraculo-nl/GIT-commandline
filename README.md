@@ -1,8 +1,8 @@
 # GIT-commandline
     7  git config --global user.email "<email>"  
-    8  git config --global user.name "name"
-   19  git config --global user.name "name"
-   52  git commit -m "First commit"
+    8  git config --global user.name "name"  
+   19  git config --global user.name "name" 
+   52  git commit -m "First commit" 
    53  git add .
    54  git commit -m "First commit"
    55  git remote add origin git@github.com:oraculo-nl/AngularFundamentals-HelloWorld.git
